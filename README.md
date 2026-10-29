@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Video+Downloader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Downie Free Installer** — Downie is a macOS video downloader that supports thousands of websites including YouTube, Vimeo, Twitter, and Instagram. Works without internet access, no account required. Full offline installation.
+**💻 Downie Free Installer** — Downie is a premium macOS video downloader supporting YouTube, Vimeo, Twitter, Instagram, and thousands of other sites. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Downie
 
-Downie is a macOS video downloader that supports thousands of websites including YouTube, Vimeo, Twitter, and Instagram. It integrates with Safari and Chrome, features a clean queue interface, and can extract audio directly to MP3 — all in a native macOS app.
+Downie is a premium macOS video downloader supporting YouTube, Vimeo, Twitter, Instagram, and thousands of other sites. With a simple drag-and-drop interface, batch downloading, quality selection, and subtitle download, Downie provides a polished macOS-native experience for video downloading. Its one-time purchase model and regular updates make it the preferred downloader for Mac users.
 
 ---
 
 ## ❌ Problem: Downie is hard to access
 
-- **macOS Only** — No Windows or Linux version available
-- **Paid App** — Requires one-time purchase; no free version
-- **Platform Dependency** — Downloads break when platforms update their API structures
-- **No Batch from CSV** — Cannot import bulk download lists from files
+- **macOS Only** — No Windows or Linux version
+- **Commercial License** — One-time purchase required
+- **Legal Considerations** — Downloading copyrighted content may violate platform terms
+- **Platform Changes** — Platform API changes occasionally require Downie updates
 
 ---
 
@@ -121,7 +121,7 @@ Downie is a macOS video downloader that supports thousands of websites including
 
 ---
 
-**Downie Free Installer** — Downie is a macOS video downloader that supports thousands of websites including YouTube, Vimeo, Twitter, and Instagram. Install without internet connection today!
+**Downie Free Installer** — Downie is a premium macOS video downloader supporting YouTube, Vimeo, Twitter, Instagram, and thousands of other sites. Install without internet connection today!
 
 <div align="center">
 
